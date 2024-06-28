@@ -1,1 +1,1 @@
-Create a Client-Server Architecture using the rust programming language
+ Client-Server Architecture using the rust programming language
